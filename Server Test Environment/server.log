@@ -1,0 +1,86 @@
+2022-12-21 23:12:32 [INFO] Starting minecraft server version 1.5.2
+2022-12-21 23:12:32 [INFO] ...Add-On Handler Initializing...
+2022-12-21 23:12:32 [INFO] Classloader: sun.misc.Launcher$AppClassLoader
+2022-12-21 23:12:32 [INFO] Minecraft jar found: jar:file:/F:/Minecraft%20Modding%20(F%20Drive)/MCP%20Workspace%20Multiplayer%20Modding/modsrc/Server%20Test%20Environment/server.jar!/
+2022-12-21 23:12:33 [INFO] Found Add-on: BTAAddon
+2022-12-21 23:12:33 [INFO] Found Add-on: BTAMod
+2022-12-21 23:12:34 [INFO] Better Than Wolves Community Edition Version 1.4.1 Initializing...
+2022-12-21 23:12:34 [INFO] Better Than Wolves Initialization Complete.
+2022-12-21 23:12:34 [INFO] Deco Addon Initializing...
+2022-12-21 23:12:34 [INFO] Deco Addon Initialization Complete.
+2022-12-21 23:12:34 [INFO] Achievements Core Version 2.2.0 Initializing...
+2022-12-21 23:12:34 [INFO] Achievements Core Initialized
+2022-12-21 23:12:34 [INFO] ...Add-On Handler Loading Custom Language File With Prefix: BTW...
+2022-12-21 23:12:34 [INFO] ...Add-On Handler Loading Custom Language File With Prefix: Deco...
+2022-12-21 23:12:34 [INFO] ...Add-On Handler Loading Custom Language File With Prefix: BTA...
+2022-12-21 23:12:34 [INFO] ...Add-On Handler Loading Custom Language File With Prefix: achievementscore...
+2022-12-21 23:12:34 [INFO] ...Add-On Handler Initialization Complete...
+2022-12-21 23:12:34 [INFO] Loading properties
+2022-12-21 23:12:34 [WARNING] server.properties does not exist
+2022-12-21 23:12:34 [INFO] Generating new properties file
+2022-12-21 23:12:34 [INFO] Default game type: SURVIVAL
+2022-12-21 23:12:34 [INFO] Generating keypair
+2022-12-21 23:12:34 [INFO] Starting Minecraft server on *:25565
+2022-12-21 23:12:34 [WARNING] Failed to load operators list: java.io.FileNotFoundException: .\ops.txt (The system cannot find the file specified)
+2022-12-21 23:12:34 [WARNING] Failed to load white-list: java.io.FileNotFoundException: .\white-list.txt (The system cannot find the file specified)
+2022-12-21 23:12:34 [INFO] Preparing level "world"
+2022-12-21 23:12:35 [INFO] Preparing start region for level 0
+2022-12-21 23:12:36 [INFO] Preparing spawn area: 16%
+2022-12-21 23:12:37 [INFO] Preparing spawn area: 46%
+2022-12-21 23:12:38 [INFO] Preparing spawn area: 77%
+2022-12-21 23:12:38 [INFO] Done (3.889s)! For help, type "help" or "?"
+2022-12-21 23:13:42 [INFO] Stopping the server
+2022-12-21 23:13:42 [INFO] Stopping server
+2022-12-21 23:13:42 [INFO] Saving players
+2022-12-21 23:13:42 [INFO] Saving worlds
+2022-12-21 23:13:42 [INFO] Closing listening thread
+2022-12-21 23:13:42 [INFO] Saving chunks for level 'world'/Overworld
+2022-12-21 23:13:42 [INFO] Saving chunks for level 'world'/Nether
+2022-12-21 23:13:42 [INFO] Saving chunks for level 'world'/The End
+2022-12-21 23:13:43 [INFO] Stopping server
+2022-12-21 23:15:35 [INFO] Starting minecraft server version 1.5.2
+2022-12-21 23:15:35 [INFO] ...Add-On Handler Initializing...
+2022-12-21 23:15:35 [INFO] Classloader: sun.misc.Launcher$AppClassLoader
+2022-12-21 23:15:35 [INFO] Minecraft jar found: jar:file:/F:/Minecraft%20Modding%20(F%20Drive)/MCP%20Workspace%20Multiplayer%20Modding/modsrc/Server%20Test%20Environment/server.jar!/
+2022-12-21 23:15:35 [INFO] Found Add-on: BTAAddon
+2022-12-21 23:15:35 [INFO] Found Add-on: BTAMod
+2022-12-21 23:15:36 [INFO] Better Than Wolves Community Edition Version 1.4.1 Initializing...
+2022-12-21 23:15:37 [INFO] Better Than Wolves Initialization Complete.
+2022-12-21 23:15:37 [INFO] uwu~ you play BTW??? Version ;) Getting Excited!!!
+2022-12-21 23:15:37 [INFO] uwu~ you play BTW??? uwu~ you play BTW???
+2022-12-21 23:15:37 [INFO] Deco Addon Initializing...
+2022-12-21 23:15:37 [INFO] Deco Addon Initialization Complete.
+2022-12-21 23:15:37 [INFO] Achievements Core Version 2.2.0 Initializing...
+2022-12-21 23:15:37 [INFO] Achievements Core Initialized
+2022-12-21 23:15:37 [INFO] ...Add-On Handler Loading Custom Language File With Prefix: BTW...
+2022-12-21 23:15:37 [INFO] ...Add-On Handler Loading Custom Language File With Prefix: SuperBTW...
+2022-12-21 23:15:37 [INFO] ...Add-On Handler Loading Custom Language File With Prefix: Deco...
+2022-12-21 23:15:37 [INFO] ...Add-On Handler Loading Custom Language File With Prefix: BTA...
+2022-12-21 23:15:37 [INFO] ...Add-On Handler Loading Custom Language File With Prefix: achievementscore...
+2022-12-21 23:15:37 [INFO] ...Add-On Handler Initialization Complete...
+2022-12-21 23:15:37 [INFO] Loading properties
+2022-12-21 23:15:37 [INFO] Default game type: SURVIVAL
+2022-12-21 23:15:37 [INFO] Generating keypair
+2022-12-21 23:15:37 [INFO] Starting Minecraft server on *:25565
+2022-12-21 23:15:37 [INFO] Preparing level "world"
+2022-12-21 23:15:37 [INFO] Preparing start region for level 0
+2022-12-21 23:15:38 [INFO] Done (0.656s)! For help, type "help" or "?"
+2022-12-21 23:15:50 [INFO] /127.0.0.1:49183 lost connection
+2022-12-21 23:15:52 [INFO] ...Add-On Handler Loading Custom Language File With Prefix: BTW...
+2022-12-21 23:15:52 [INFO] ...Add-On Handler Loading Custom Language File With Prefix: SuperBTW...
+2022-12-21 23:15:52 [INFO] ...Add-On Handler Loading Custom Language File With Prefix: Deco...
+2022-12-21 23:15:52 [INFO] ...Add-On Handler Loading Custom Language File With Prefix: BTA...
+2022-12-21 23:15:52 [INFO] ...Add-On Handler Loading Custom Language File With Prefix: achievementscore...
+2022-12-21 23:15:52 [INFO] EpicAaron29[/127.0.0.1:49184] logged in with entity id 1042 at (-243.5, 68.0, 188.5)
+2022-12-21 23:16:07 [INFO] Opped epicaaron29
+2022-12-21 23:16:28 [WARNING] [EpicAaron29: Set own game mode to Creative Mode]
+2022-12-21 23:18:12 [INFO] EpicAaron29 lost connection: disconnect.quitting
+2022-12-21 23:20:38 [INFO] Stopping the server
+2022-12-21 23:20:38 [INFO] Stopping server
+2022-12-21 23:20:38 [INFO] Saving players
+2022-12-21 23:20:38 [INFO] Closing listening thread
+2022-12-21 23:20:38 [INFO] Saving worlds
+2022-12-21 23:20:38 [INFO] Saving chunks for level 'world'/Overworld
+2022-12-21 23:20:38 [INFO] Saving chunks for level 'world'/Nether
+2022-12-21 23:20:38 [INFO] Saving chunks for level 'world'/The End
+2022-12-21 23:20:38 [INFO] Stopping server
